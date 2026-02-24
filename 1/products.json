@@ -800,5 +800,16 @@
 			"0x0f3CC0aF08538A9ec551aF53e4F0a19fD7273ed9",
 			"0xfCF0461DD3E6Aa8Eb3fE45D87f20D44A7115EA97"
 		]
+	},
+	"kpk-securitize": {
+		"name": "kpk Secutirize",
+		"description": "A market curated by kpk for borrowing against Securitize tokenised RWAs.",
+		"entity": "kpk",
+		"url": "https://kpk.io/curation/",
+		"vaults": [
+			"0x2ff596321782fe034102f55af5ad707a4ce0d6a7",
+			"0x8b2d7534ffcf6c2a9226f439cdac26c6666e97a9",
+			"0x75e2DAbcfb2edb0e63445ac9F027e3048508eA2b"
+		]
 	}
 }
