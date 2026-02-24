@@ -1768,5 +1768,20 @@
 		"name": "Cozy wstETH",
 		"description": "A wstETH non-borrowable collateral vault managed by Cozy.",
 		"entity": "cozy-finance"
+	},
+	"0x2ff596321782fe034102f55af5ad707a4ce0d6a7": {
+		"name": "kpk Securitize VBILL",
+		"description": "A market using tokenised VanEck Treasury Fund (VBILL) as collateral for stablecoin loans.",
+		"entity": "kpk"
+	},
+	"0x8b2d7534ffcf6c2a9226f439cdac26c6666e97a9": {
+		"name": "kpk Securitize STAC",
+		"description": "A market using tokenised BNY AAA CLO Fund (STAC) as collateral for stablecoin loans.",
+		"entity": "kpk"
+	},
+	"0x75e2DAbcfb2edb0e63445ac9F027e3048508eA2b": {
+		"name": "kpk Securitize ACRED",
+		"description": "A market using tokenised Apollo Diversified Credit Fund (ACRED) as collateral for stablecoin loans.",
+		"entity": "kpk"
 	}
 }
